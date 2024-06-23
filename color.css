@@ -1,0 +1,43 @@
+
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.5s;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-style: italic;
+    border-style: dotted;
+    border-radius: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px;
+    border-style: double;
+}
+
+h2 {
+    border-style: blur;
+    font-style: italic;
+    border-radius: 100px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px;
+    border-style: double;
+
+
+}
